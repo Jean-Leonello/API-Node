@@ -1,0 +1,7 @@
+[
+    { "id": 1, "id_user": 1, "tipo": "Artigo", "titulo": "Artigo Acadêmico", "curso": "Produção Industrial", "turno": "Tarde" },
+    { "id": 2, "id_user": 2, "tipo": "Relatório", "titulo": "Relatório de Pesquisa", "curso": "Agronomia", "turno": "Noite" },
+    { "id": 3, "id_user": 3, "tipo": "Trabalho", "titulo": "Trabalho de Direito", "curso": "Direito", "turno": "Manhã" },
+    { "id": 4, "id_user": 4, "tipo": "Estudo de Caso", "titulo": "Estudo de Caso 2024", "curso": "Medicina", "turno": "Tarde" },
+    { "id": 5, "id_user": 5, "tipo": "Projeto", "titulo": "Projeto de Engenharia", "curso": "Arquitetura", "turno": "Noite" }
+]
